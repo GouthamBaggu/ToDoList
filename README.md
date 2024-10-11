@@ -1,2 +1,10 @@
 # ToDoList
-This is the project where we can add the list of tasks we have to do. I used react, java script to create this project.
+
+A simple and interactive to-do list application built using React. This app helps you organize your tasks and improve productivity by allowing you to add, mark, and delete tasks as needed.
+
+## Features
+
+- **Add tasks**: Easily add tasks to your to-do list.
+- **Mark tasks as complete**: Toggle tasks as complete or incomplete.
+- **Delete tasks**: Remove tasks from the list when done.
+
